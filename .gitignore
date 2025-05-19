@@ -1,0 +1,4 @@
+./node_modules
+/studio-networkdata/node_modules
+.env.local
+.env
